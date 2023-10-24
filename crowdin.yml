@@ -6,6 +6,6 @@ api_token_env: CROWDIN_PERSONAL_TOKEN
 files: [
   {
     "source": "/src/main/resources/i18n_en.properties",
-    "translation": "/%original_path%/i18n_%two_letters_code%.%file_extension%"
+    "translation": "/%original_path%/i18n_%two_letters_code%.%file_extension%",
   }
 ]
